@@ -1,64 +1,40 @@
-<header>
+# Hey, I'm Darnell 👋
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Former employee. Current escapee. Finally building the thing
+instead of sitting in the meeting about the thing.
 
-# Introduction to GitHub
+I spent enough years watching other people's software run my
+day-to-day to get curious about what's actually happening under
+the hood — so I quit waiting for permission and started teaching
+myself to build it. Turns out "just Google the error" is a
+legitimate development methodology.
 
-_Get started using GitHub in less than an hour._
+### What I'm building
 
-</header>
+- 🎬 **[Vidamation](#)** — multi-tenant AI video generation SaaS.
+  FastAPI + Celery on the backend, React/Vite/TS on the front,
+  AWS (RDS, ElastiCache, Fargate) holding it together. Renders
+  video, burns GPU credits, occasionally does both on purpose.
+- 🏛️ **Gov Contracting Workflow Tool** — built to fix a workflow
+  I got tired of doing manually. Open-sourcing it soon so nobody
+  else has to duct-tape this together either.
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+### Stack I actually use
 
-## Finish
+`FastAPI` · `React` · `TypeScript` · `Tailwind` · `Supabase/Postgres`
+`AWS (CDK, Fargate, RDS)` · `Celery/Redis` · `Vercel`
 
-_Congratulations, you've completed this course and joined the world of developers!_
+### Honest disclaimer
 
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
+Self-taught, still learning, and my commit history is basically a
+diary of mistakes I made and then fixed two commits later. If my
+code makes a senior engineer wince — that's the process working.
 
-Here's a recap of your accomplishments:
+### Support the transition
 
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
-
-### What's next?
-
-If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
-
-1. Make a new public repository with a name that matches your GitHub username.
-2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
-3. Edit the contents of the `README.md` file.
-4. If you created a new branch for your file, open and merge a pull request on your branch.
-5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
-
-Check out these resources to learn more or get involved:
-
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Going from "had a job, complained about it" to "builds software
+for a living" isn't free. If you want to help fund the jump, the
+Sponsor button's right there. ☕→💻
 
 ---
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+📫 Reach me here on GitHub · 🎓 studying Business, SF City College
